@@ -28,4 +28,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 Built by: Mohamed Hamida, Huzail Hassan, and Phoebe Kim   
-Published in April 2021, when COVID-19 was at it's peak. 
+Published in April 2021, when COVID-19 was at its peak. 
